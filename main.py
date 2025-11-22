@@ -97,6 +97,38 @@ def seed_content():
                     "source": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-1080p.mp4",
                     "duration": 68,
                     "category": "training"
+                },
+                {
+                    "title": "Big Buck Bunny (Clip)",
+                    "description": "Open movie classic – perfect for testing playback.",
+                    "thumbnail": "https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?q=80&w=1200&auto=format&fit=crop",
+                    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                    "duration": 60,
+                    "category": "feature"
+                },
+                {
+                    "title": "Sintel Trailer",
+                    "description": "Another Blender open movie trailer.",
+                    "thumbnail": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=1200&auto=format&fit=crop",
+                    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+                    "duration": 52,
+                    "category": "feature"
+                },
+                {
+                    "title": "Tears of Steel (Short)",
+                    "description": "Live-action/CGI short – great for HD testing.",
+                    "thumbnail": "https://images.unsplash.com/photo-1526178617593-31b1ca8a8a5d?q=80&w=1200&auto=format&fit=crop",
+                    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+                    "duration": 73,
+                    "category": "feature"
+                },
+                {
+                    "title": "For Bigger Joyrides",
+                    "description": "Short sample from Google’s demo set.",
+                    "thumbnail": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?q=80&w=1200&auto=format&fit=crop",
+                    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+                    "duration": 28,
+                    "category": "ad"
                 }
             ]
             for v in demo_videos:
